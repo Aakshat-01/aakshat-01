@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hello I am a Software Engineer with basic knowledge in React.js, specializing in HTML,CSS and JavaScript. Enthusiast in UX<br>design and real-time applications. Passionate about backend scalability, system design and DevOps, leveraging<br>optimized data structures and efficient algorithms to solve complex problems,and modern web frameworks to build<br>highly scalable, efficient, and user-centric solutions that meet real-world demands.<br>
+Hello, I’m a Computer Science Engineering student focused on AI Engineering and Full-Stack Development.
+I build AI-powered applications, LLM workflows, AI agents, and backend systems using Python, JavaScript, TypeScript, React, Node.js, MongoDB, REST APIs, and Gemini/OpenAI APIs.
+I’ve built and deployed 7+ applications, including an AI Travel Agent that combines web research with LLM-based itinerary generation, along with full-stack systems featuring authentication, REST APIs, databases, and real-time integrations.
+I’m also strengthening my foundation in DSA, OOP, DBMS, Operating Systems, and software engineering, with 150+ DSA problems solved.
+I’m passionate about building practical AI solutions, solving challenging engineering problems, and continuously learning.<br>
 
 
 ## 🌐 Socials:
